@@ -1,16 +1,16 @@
 # simple_note
+Notetaking App for software development project
 
-Notetaking app
+## Information
+A notetaking app for the mobile. Users can sign in/sign up to an account. Users can then add/edit/delete notes.
 
-## Getting Started
+This project was made using Flutter and using the Dart programming language.
+Firebase firestore has been implemented to be the database where data is stored.
+Project has been built using Android Studio.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To build/run, use Android Studio and select an emulator
+```
+click run in Android Studio
+OR
+flutter run in terminal
+```
