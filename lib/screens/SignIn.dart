@@ -3,9 +3,6 @@ import 'package:simple_note/screens/SignUp.dart';
 
 class SignInPage extends StatelessWidget {
 
-  //text field
-  String email = '';
-  String pass = '';
 
   @override
   Widget build(BuildContext context) {
